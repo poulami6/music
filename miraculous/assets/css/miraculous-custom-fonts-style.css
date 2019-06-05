@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+.entry-content img {
+    margin-bottom: 7px;     
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: 'Maven Pro', sans-serif;
+	font-weight:500;
+}
+
+.ms_basic_menu ul li a {
+    font-size: 16px;
+}
+
+.breadcrumbs_wrapper:after {
+    left: 0px;
+}
+
+.widget.widget_search form.search-form input.search-submit, input.search-submit {
+    line-height: 38px;
+}
+form#commentform input[type="submit"] {
+    line-height: 40px;
+}
+form#commentform input[type="submit"]:focus{
+	border-color:transparent;
+}
+.widget.widget_categories ul li a:after {
+	display:none;	
+}
+.ms_footer_wrapper {
+    margin-bottom: 35px;
+}
+.comment-meta.commentmetadata.comment_info blockquote {
+    margin: 30px 0px 15px 0px;
+}

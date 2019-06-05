@@ -1,0 +1,19 @@
+.playlist-select { margin: 10px; }
+.playlist-select > label { margin-right: 6px; }
+.select-panel-content { width: 31%; float: left; margin: 1%; border: 1px solid #ccc; padding:0; box-sizing: border-box; min-height: 250px; }
+.select-panel-content .title-box { background: #0085ba; padding: 10px; color: #fff; }
+.select-panel-content .title-box .cb-select-all {  width: auto; float: left; margin: 2px 10px 0 0; }
+.select-panel-content .title-box h4{ display: inline-block; margin: 0; }
+.select-panel-content .list-panel { height: 200px; overflow-y: scroll; padding: 0 11px; }
+.select-panel-content ol.outer-border { margin: 0; list-style-type: none; padding: 0; width: 100%; }
+.select-panel-content ol.outer-border li.name { border-bottom: 1px dashed #bdbdbd; padding: 10px 0; margin: 0; }
+.select-panel-content ol.outer-border li.name input[type="checkbox"]{ border: 1px solid #0085ba; }
+
+
+/*------------*/
+.nav-menu-header-new { padding-bottom: 15px !important; }
+.playlist-form{ margin-top: 20px; }
+.playlist-form > input { float: right; margin-right: 20px !important; }
+.playlist-form .playlist-select{ width: auto; float: left; margin-top: 0; }
+.playlist-form p.user-playlist-heading{ display: block; clear: both; font-size: 20px; margin: 0 0 20px 9px; border-bottom: 1px solid #ccc; padding: 0 0 10px; }
+.admin-playlist-form > input{float: right; margin-right: 23px !important; margin-top: -28px !important; }

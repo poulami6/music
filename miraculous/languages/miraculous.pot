@@ -1,0 +1,223 @@
+# <!=Copyright (C) 2018 kamleshyadav
+# This file is distributed under the Themeforest Split Licence.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2018-11-20 16:00+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator:\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n" 
+
+#: vendor/include/miraculous-core-library.php:127,186,245
+msgid "right"
+msgstr ""
+
+#: vendor/include/miraculous-core-library.php:324,329
+msgid "4"
+msgstr ""
+
+#: vendor/include/miraculous-core-library.php:327
+msgid "Erro Image"
+msgstr ""
+
+#: vendor/include/miraculous-core-library.php:333
+msgid "go back"
+msgstr ""
+
+#: vendor/include/miraculous-core-library.php:341
+msgid "wave image"
+msgstr ""
+
+
+#: vendor/include/miraculous-comment.php:65
+msgid "Edit"
+msgstr ""
+
+#: vendor/include/miraculous-comment.php:43
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: vendor/include/miraculous-comment.php:49
+msgid "<cite class="fn">%s</cite> <span class="says">says:</span>"
+msgstr ""
+
+#: vendor/include/miraculous-comment.php:55
+msgid "'%1$s at %2$s'"
+msgstr ""
+
+#: vendor/footer/miraculous-default-footer.php.php:104
+msgid "&copy; Copyright 2018, All Rights Reserved"
+msgstr ""
+
+#: vendor/footer/miraculous-default-footer.php.php:55
+msgid "home"
+msgstr ""
+
+#: vendor/footer/miraculous-default-footer.php.php:62
+msgid "Logo Image"
+msgstr ""
+
+#: vendor/header/miraculous-header-style-one.php:47
+msgid "home"
+msgstr ""
+
+#: vendor/header/miraculous-header-style-one.php:54
+msgid "Logo Image"
+msgstr ""
+
+#: vendor/header/miraculous-header-style-one.php:61
+msgid "home"
+msgstr ""
+
+#: vendor/header/miraculous-header-style-one.php:68
+msgid "Logo Image"
+msgstr ""
+
+#: vendor/header/miraculous-header-style-one.php:75
+msgid "home"
+msgstr ""
+
+#: vendor/header/miraculous-default-header.php:41
+msgid "home"
+msgstr ""
+
+#: vendor/header/miraculous-default-header.php:48
+msgid "Logo Image"
+msgstr ""
+
+#: template-parts/content-full.php:20
+msgid "Pages"
+msgstr ""
+
+#: template-parts/content-full.php:33
+msgid "Edit <span class="screen-reader-text">%s</span>"
+msgstr ""
+
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href="%1$s">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:35
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:42
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:42
+msgid "Pages."
+msgstr ""
+
+#: template-parts/content.php:38
+msgid "Continue reading<span class="screen-reader-text"> "%s"</span>."
+msgstr ""
+
+#: comments.php:33
+msgid "Comment (1)"
+msgstr ""
+
+#: comments.php:35
+msgid "Comments (%1$s)"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed"
+msgstr ""
+
+#: comments.php:79
+msgid "Your Name"
+msgstr ""
+
+#: comments.php:86
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:93
+msgid "Express your thoughts, idea or write a feedback by clicking here & start an awesome comment"
+msgstr ""
+
+#: comments.php:97
+msgid "Leave A Comment"
+msgstr ""
+
+#: functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: functions.php:48
+msgid "First Menu"
+msgstr ""
+
+#: functions.php:49
+msgid "Middle Menu"
+msgstr ""
+
+#: functions.php:50
+msgid "Last Menu"
+msgstr ""
+
+#: functions.php:111
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:113
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:121
+msgid "Footer 1."
+msgstr ""
+
+#: functions.php:123
+msgid "Add Footer Col Two Widgets Here."
+msgstr ""
+
+#: functions.php:131
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:133
+msgid "Add Footer Col Two Widgets Here."
+msgstr ""
+
+#: functions.php:141
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:143
+msgid "Add Footer Col Three Widgets Here."
+msgstr ""
+
+#: functions.php:151
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:151
+msgid "Add Footer Col Four Widgets Here."
+msgstr "" 
+
+#: vendor/miraculous-function.php:130
+msgid "Blog."
+msgstr "" 
+
+#: vendor/miraculous-function.php:140
+msgid "Shop."
+msgstr "" 
+
+#: vendor/miraculous-function.php:153
+msgid "Search Results for: %s."
+msgstr "" 
+
+#: vendor/miraculous-function.php:199
+msgid "Add a menu"
+msgstr "" 
+ 
+#: vendor/miraculous-function.php:199
+msgid "Add a menu"
+msgstr "" 
